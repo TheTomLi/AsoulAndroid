@@ -1,3 +1,4 @@
+/*
 package com.example.asoul.Activities;
 
 import android.content.Intent;
@@ -30,4 +31,4 @@ public class OrderActivity extends AppCompatActivity {
         startActivity(switchActivityIntent);
     }
 
-}
+}*/
